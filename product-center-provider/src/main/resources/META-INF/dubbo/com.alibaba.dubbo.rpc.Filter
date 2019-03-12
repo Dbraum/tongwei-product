@@ -1,0 +1,3 @@
+exceptionFilter=com.deepexi.productCenter.filter.ExceptionFilter
+dubboContextProviderFilter=com.deepexi.productCenter.filter.DubboContextProviderFilter
+dubboContextConsumerFilter=com.deepexi.productCenter.filter.DubboContextConsumerFilter
